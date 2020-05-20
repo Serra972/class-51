@@ -1,0 +1,29 @@
+
+            h1 {
+                color:#952929;
+            }
+
+            * {
+                border: solid;
+            }
+            .header{
+background-color: #00eeee;
+display:flex;
+justify-content: center;
+        }
+
+        
+        .grid{
+            display:flex;
+            justify-content: space-evenly;
+            flex-wrap:wrap;
+        }
+
+        .footer{
+            display:flex;
+            justify-content: flex-end;
+        }
+
+        .h2{
+            text-align: center;
+        }
